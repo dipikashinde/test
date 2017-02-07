@@ -1,0 +1,8 @@
+1) paste the folder in localhost root
+2) execute the 1 task  : type localhost/test in url and add the details and submit the form
+3) execute the 2 task  : click on (test2 click here link). it redirect on login page
+	login details-
+		 username: admin
+		 password: admin
+
+after successfully logged in you can see the list of user details and you can download their resume
